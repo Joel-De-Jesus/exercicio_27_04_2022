@@ -2,3 +2,5 @@ Resolução do primeiro exercício sobre GitHub
  - configurações;
  - vinculações;
  - variações.
+
+---------- Adicionando novo conteúdo no mesmo documento -------------
