@@ -1,0 +1,4 @@
+Resolução do primeiro exercício sobre GitHub
+ - configurações;
+ - vinculações;
+ - variações.
