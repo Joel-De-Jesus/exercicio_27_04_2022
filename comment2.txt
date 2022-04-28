@@ -1,0 +1,7 @@
+
+------------------- Apresentando a segunda variação -----------------------
+
+Resolução do primeiro exercício sobre GitHub
+ - configurações;
+ - vinculações;
+ - variações.
